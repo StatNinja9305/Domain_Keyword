@@ -1,0 +1,4 @@
+url	物件比較ツール	バナナ	SMS Datatech	インディゴ	シチズン	教育	大藏
+https://pig-data.jp/	1	0	1	1	1	1	1
+https://www.sms-datatech.co.jp/	1	0	1	1	0	1	1
+https://indigodata.co.jp/	1	0	1	1	1	1	1
